@@ -1,8 +1,8 @@
-opencv-python-headless==4.11.0.86
-ultralytics
+ultralytics==8.4.137
 torch==2.5.1
 torchvision==0.20.1
 streamlit
+opencv-python-headless==4.11.0.86
 numpy==1.26.4
 pandas
 plotly
